@@ -1,0 +1,2 @@
+# Institute-of-Current-Students---Vishal-Mathur---Project-Report
+The “Institute of Current Students” Website (web based application) is useful for the students, faculty, guest who likes to display result as well schedules of examination and all that task like event, news, students can find out list of fresh courses offered by them and admission procedure, discussion forum, fee structure etc. without going to institute. It provides the facility to the students or guest to have complete information about the institute.
