@@ -2,6 +2,7 @@
 The “Institute of Current Students” Website (web based application) is useful for the students, faculty, guest who likes to display result as well schedules of examination and all that task like event, news, students can find out list of fresh courses offered by them and admission procedure, discussion forum, fee structure etc. without going to institute. It provides the facility to the students or guest to have complete information about the institute.
 
 @@@@@ HOW TO RUN THIS PROJECT @@@@@
+
 Step 1: Download XAMPP in your system (Windows / Linux) ( Link: https://www.apachefriends.org/download.html )
 
 Step 2: Run XAMPP Module (Apache & MySQL)
