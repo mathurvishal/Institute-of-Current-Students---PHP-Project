@@ -9,9 +9,9 @@ Step 2: Run XAMPP Module (Apache & MySQL)
 
 Step 3: Open browser and enter in URL "localhost/phpmyadmin" without quote.
 
-Step 4: Create a Datebase named "ArtWork" without quote.
+Step 4: Create a Datebase named "icsnew" without quote.
 
-Step 5: Import "ICS_DB.sql" File into database you just created. (you w'll find that file in Database/ folder above code.
+Step 5: Import "ICS_DB.sql" File into database you just created. (you we'll find that file in Database/ folder above code.
 
 Step 6: Copy & Paste all file listed above into htdocs by creating a separate folder.
 
